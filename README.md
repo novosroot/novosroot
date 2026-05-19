@@ -45,9 +45,3 @@ AWS · Docker · CI/CD · Git
 
 - 📜 **Coursera Software Design & Architecture Specialization** (Feb 2025)
 - 📜 **OpenJS Foundation Node.js Application Developer (JSNAD)** (Mar 2023)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-novosiadlyi-javascript/)
