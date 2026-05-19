@@ -10,11 +10,13 @@
 
 I'm a Full-Stack JS Engineer with 5+ years of experience building scalable web applications and mobile apps. I specialize in React/Next.js on the frontend and Node.js/NestJS on the backend, with a strong focus on fintech, SaaS products, and marketplace platforms.
 
-- 🏢 Currently working as **Full-Stack Developer** at **Solidgate** — fintech payment processing platform serving 1,500+ merchants
-- 🛒 Previously built a **React Native iOS app** for **Oda** — Norway's fastest-growing online grocery store  
-- 🤖 Contributed to **Kular AI** — AI-powered lead generation SaaS platform (1,500+ clients)
-- 🎓 Bachelor's in **Computer Science**, Ivan Franko National University of Lviv
-- 💡 Interested in scalable architecture, clean code, and developer experience
+- 🏢 Currently working as **Full-Stack Developer**- 💳 5+ years in production-grade fintech & SaaS (payment processing, 
+  lead generation, e-commerce)
+- 📱 Built iOS mobile app with React Native for Oda — Norway's fastest-growing 
+  online grocery store (7,000+ products)
+- 🤖 Co-built Kular AI — AI-powered lead generation SaaS serving 1,500+ clients
+- 🎓 B.Sc. Computer Science — Ivan Franko National University of Lviv
+- 🔍 Currently open to new opportunities — Remote EU/US preferred
 
 ---
 
