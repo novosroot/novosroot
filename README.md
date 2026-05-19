@@ -10,8 +10,7 @@
 
 I'm a Full-Stack JS Engineer with 5+ years of experience building scalable web applications and mobile apps. I specialize in React/Next.js on the frontend and Node.js/NestJS on the backend, with a strong focus on fintech, SaaS products, and marketplace platforms.
 
-- 🏢 Currently working as **Full-Stack Developer**- 💳 5+ years in production-grade fintech & SaaS (payment processing, 
-  lead generation, e-commerce)
+- 🏢 Currently working as **Full-Stack Developer** - 💳 5+ years in production-grade fintech & SaaS (payment processing, lead generation, e-commerce)
 - 📱 Built iOS mobile app with React Native for Oda — Norway's fastest-growing 
   online grocery store (7,000+ products)
 - 🤖 Co-built Kular AI — AI-powered lead generation SaaS serving 1,500+ clients
