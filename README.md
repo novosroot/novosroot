@@ -1,5 +1,3 @@
-# Hi, I'm Ruslan Novosiadlyi 👋
-
 **Full-Stack JavaScript Engineer** | React · Next.js · Node.js · TypeScript · NestJS  
 5+ years building SaaS, fintech & marketplaces  
 📍 Lviv, Ukraine · Open to Remote EU/US
